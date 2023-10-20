@@ -1,6 +1,6 @@
 {
 	
-	"model_name" : "resnet18",
+	"model_name" : "transformer",
 	
 	"no_models" : 10,
 	
